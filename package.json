@@ -1,28 +1,28 @@
 {
-    "name": "book-record-management-10567",
-    "version": "1.0.0",
-    "description": "Book record management server build with node.js and express",
-    "main": "index.js",
-    "scripts": {
-      "start": "node index.js",
-      "dev": "nodemon index.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/aditya12gusain/book-record-management-10567.git"
-    },
-    "author": "Aditya Gusain",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/aditya12gusain/book-record-management-10567/issues"
-    },
-    "homepage": "https://github.com/aditya12gusain/book-record-management-10567#readme",
-    "dependencies": {
-      "dotenv": "^16.0.1",
-      "express": "^4.18.1",
-      "mongoose": "^6.5.3"
-    },
-    "devDependencies": {
-      "nodemon": "^2.0.19"
-    }
+  "name": "book_record_management",
+  "version": "1.0.0",
+  "description": "Book record management server build with node.js and express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raman-Singh666/Book-Record-Management"
+  },
+  "author": "Raman Jaggi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raman-Singh666/Book-Record-Management/issues"
+  },
+  "homepage": "https://github.com/Raman-Singh666/Book-Record-Management#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
+}
